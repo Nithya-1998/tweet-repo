@@ -1,0 +1,276 @@
+[{
+  "_id": "24c89b6a-9936-48e4-9732-a9ea47dd4915",
+  "message": "I like SH",
+  "loginId": "nithya",
+  "emailId": "nithya123@gmail.com",
+  "replyTweets": [
+    {
+      "_id": "93f7d7a9-fb2c-463f-8b71-2c35e3deca26",
+      "loginId": "nithya",
+      "repliedMessage": "spr",
+      "repliedDTTM": {
+        "$date": "2021-06-27T22:06:57.196Z"
+      },
+      "replyMsglike": 0,
+      "liked": false
+    },
+    {
+      "_id": "cfdd6355-a232-40a5-ae2b-e128a382fe3c",
+      "loginId": "nithya",
+      "repliedMessage": "YEs",
+      "repliedDTTM": {
+        "$date": "2021-06-27T22:09:25.565Z"
+      },
+      "replyMsglike": 0,
+      "liked": false
+    },
+    {
+      "_id": "d39e3d7e-1d6b-46eb-8f84-c46d5dc3ffb7",
+      "loginId": "nithya",
+      "repliedMessage": "i also",
+      "repliedDTTM": {
+        "$date": "2021-06-27T18:24:37.137Z"
+      },
+      "replyMsglike": 0,
+      "liked": false
+    }
+  ],
+  "postDTTM": {
+    "$date": "2021-05-31T15:57:49.141Z"
+  },
+  "postLikeCount": 50
+},{
+  "_id": "80e507f6-7688-4888-a40f-9ae905d08902",
+  "message": "I like jhdfl",
+  "loginId": "nithya.t",
+  "emailId": "nithya123@gmail.com",
+  "replyTweets": [
+    {
+      "loginId": "roshini.r",
+      "repliedMessage": "I like SH",
+      "repliedDTTM": {
+        "$date": "2021-05-31T16:23:23.429Z"
+      },
+      "replyMsglike": 1,
+      "liked": true
+    },
+    {
+      "loginId": "roshini",
+      "repliedMessage": "I like VJ",
+      "repliedDTTM": {
+        "$date": "2021-05-31T16:28:39.412Z"
+      },
+      "replyMsglike": 1,
+      "liked": true
+    }
+  ],
+  "postDTTM": {
+    "$date": "2021-05-31T16:37:12.373Z"
+  },
+  "postLikeCount": 60
+},{
+  "_id": "8e85c73a-fe6c-4f9a-9dee-a22933689696",
+  "message": "I like Cycling",
+  "loginId": "nithya.t",
+  "emailId": "nithya123@gmail.com",
+  "replyTweets": [
+    {
+      "_id": "197cc92a-697a-4a96-bc09-7a75437ed62b",
+      "loginId": "nithya",
+      "repliedMessage": "me too",
+      "repliedDTTM": {
+        "$date": "2021-06-27T21:59:03.597Z"
+      },
+      "replyMsglike": 0,
+      "liked": false
+    }
+  ],
+  "postDTTM": {
+    "$date": "2021-06-09T05:52:13.305Z"
+  },
+  "postLikeCount": 1
+},{
+  "_id": "2830658e-1f9b-42a9-9400-36bc1ad3572a",
+  "message": "i like cycling",
+  "loginId": "nithya",
+  "emailId": "nithya123@gmail.com",
+  "replyTweets": [],
+  "postDTTM": {
+    "$date": "2021-06-09T06:08:36.636Z"
+  },
+  "postLikeCount": 0
+},{
+  "_id": "dd3aa474-b5ab-4a1b-80d6-c93453b5faf1",
+  "message": "i like cyc;ing",
+  "loginId": "jisha",
+  "emailId": "jish@gmail.com",
+  "replyTweets": [
+    {
+      "_id": "48a6454b-055f-4af5-add8-b91368f45908",
+      "loginId": "nithya",
+      "repliedMessage": "yes",
+      "repliedDTTM": {
+        "$date": "2021-06-27T22:19:03.328Z"
+      },
+      "replyMsglike": 0,
+      "liked": false
+    },
+    {
+      "_id": "09162077-113f-43a3-a7eb-468135604ab4",
+      "loginId": "nithya",
+      "repliedMessage": "i like racing",
+      "repliedDTTM": {
+        "$date": "2021-06-27T20:56:21.304Z"
+      },
+      "replyMsglike": 0,
+      "liked": false
+    }
+  ],
+  "postDTTM": {
+    "$date": "2021-06-09T06:24:23.068Z"
+  },
+  "postLikeCount": 2
+},{
+  "_id": "15425267-cfb2-4f3f-9883-dc6989c5b96d",
+  "message": "i like cycling",
+  "loginId": "Roshini",
+  "emailId": "roshini@gmail.com",
+  "replyTweets": [],
+  "postDTTM": {
+    "$date": "2021-06-09T06:31:37.441Z"
+  },
+  "postLikeCount": 0
+},{
+  "_id": "9ed5f5da-bc96-4dae-9458-e274e5d3ac85",
+  "message": "i like cycling",
+  "loginId": "niVETHA",
+  "emailId": "nivetha@gmail.com",
+  "replyTweets": [],
+  "postDTTM": {
+    "$date": "2021-06-09T06:34:08.956Z"
+  },
+  "postLikeCount": 1
+},{
+  "_id": "a214af61-4094-4f28-9ab9-6f9ea9eb8a27",
+  "message": "i like cycling",
+  "loginId": "mohana",
+  "emailId": "mohana@gmail.com",
+  "replyTweets": [
+    {
+      "_id": "c0526227-7462-4cf7-a81d-4fb1f29ac66c",
+      "loginId": "nithya",
+      "repliedMessage": "i like bike rides",
+      "repliedDTTM": {
+        "$date": "2021-06-27T20:28:18.201Z"
+      },
+      "replyMsglike": 0,
+      "liked": false
+    },
+    {
+      "_id": "fb117c9a-2c90-489e-a19f-f2e94d850b1d",
+      "loginId": "nithya",
+      "repliedMessage": "hkk",
+      "repliedDTTM": {
+        "$date": "2021-06-27T21:44:09.033Z"
+      },
+      "replyMsglike": 0,
+      "liked": false
+    }
+  ],
+  "postDTTM": {
+    "$date": "2021-06-09T06:34:11.187Z"
+  },
+  "postLikeCount": 2
+},{
+  "_id": "9e1558b5-65d0-490a-b081-75f4c09f40e2",
+  "message": "I like chocolate",
+  "loginId": "nisha",
+  "emailId": "NISHA@gmail.com",
+  "replyTweets": [
+    {
+      "_id": "a1f05e09-8ce2-4dee-8a2b-56620b488dea",
+      "loginId": "nithya",
+      "repliedMessage": "Me too",
+      "repliedDTTM": {
+        "$date": "2021-06-27T22:32:37.884Z"
+      },
+      "replyMsglike": 0,
+      "liked": false
+    },
+    {
+      "_id": "794e2f05-39b0-45f1-b68f-ad9c1f1ff120",
+      "loginId": "nithya",
+      "repliedMessage": "i also",
+      "repliedDTTM": {
+        "$date": "2021-06-27T22:33:41.724Z"
+      },
+      "replyMsglike": 0,
+      "liked": false
+    },
+    {
+      "_id": "54b66fcc-4277-43ec-aacb-9ed5814df18c",
+      "loginId": "nithya",
+      "repliedMessage": "Candies",
+      "repliedDTTM": {
+        "$date": "2021-06-27T19:11:35.178Z"
+      },
+      "replyMsglike": 0,
+      "liked": false
+    }
+  ],
+  "postDTTM": {
+    "$date": "2021-06-09T11:35:04.159Z"
+  },
+  "postLikeCount": 3
+},{
+  "_id": "d6542724-7455-45a4-bba2-345c428d12a0",
+  "message": "i love my country",
+  "loginId": "nithya",
+  "emailId": "nithya123@gmail.com",
+  "replyTweets": [
+    {
+      "_id": "28c07502-bc09-4cf2-9356-a120947cf92c",
+      "loginId": "nithya",
+      "repliedMessage": "jkhk",
+      "repliedDTTM": {
+        "$date": "2021-06-27T19:59:16.141Z"
+      },
+      "replyMsglike": 0,
+      "liked": false
+    }
+  ],
+  "postDTTM": {
+    "$date": "2021-06-27T19:58:20.413Z"
+  },
+  "postLikeCount": 0
+},{
+  "_id": "281c7d6e-bccc-4ce7-bdae-844bb5d71fdb",
+  "message": "Empty soul",
+  "loginId": "nithya",
+  "emailId": "nithya123@gmail.com",
+  "replyTweets": [],
+  "postDTTM": {
+    "$date": "2021-06-27T20:27:10.163Z"
+  },
+  "postLikeCount": 1
+},{
+  "_id": "c185031c-88e9-47d7-b010-43cf9fd15f9d",
+  "message": "tum hi hooo",
+  "loginId": "nithya",
+  "emailId": "nithya123@gmail.com",
+  "replyTweets": [],
+  "postDTTM": {
+    "$date": "2021-06-27T20:31:00.119Z"
+  },
+  "postLikeCount": 2
+},{
+  "_id": "b969089f-6d9b-4f0f-ab59-87a9b5dbf53c",
+  "message": "I like reading books..",
+  "loginId": "Nisha",
+  "emailId": "nisha@gmail.com",
+  "replyTweets": [],
+  "postDTTM": {
+    "$date": "2021-06-28T05:59:17.324Z"
+  },
+  "postLikeCount": 1
+}]
