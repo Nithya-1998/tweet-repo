@@ -1,0 +1,9 @@
+export const ALL_USERS = 'ALL_USERS';
+export const USER_ID = 'USER_ID';
+export const LOGGED_IN = 'LOGGED_IN';
+export const ALL_TWEETS = 'ALL_TWEETS';
+export const ADD_TWEET = 'ADD_TWEET';
+export const UPDATE_TWEET = 'UPDATE_TWEET';
+export const DELETE_TWEET = 'DELETE_TWEET';
+export const REPLY_TWEET = 'REPLY_TWEET';
+export const USER_TWEET = 'USER_TWEET';

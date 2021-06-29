@@ -1,0 +1,77 @@
+section {
+    font: 300 14px/1.5 'Oxygen', sans-serif;
+  }
+  .table td,
+  .table th {
+    padding: 20px;
+  }
+  .gender,.instock,.productdescription,.category,.title,.cost,.imgUrl,.quantity,.outOfstock,.type,.color,.size,.manufacturer,.material,.supplier,.warranty{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.emailId{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.password{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.submit{
+  width: 30%;
+  background-color: green;
+  color: white;
+  padding: 14px 0px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;    
+}
+#emailId,#password,#confirmPwd{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+#search{
+width: 50px;
+ 
+}
+.icon-button {
+  --button-size: calc(var(--nav-size) * 0.5);
+  width: 50px;
+  height:50px;
+  background-color: white;
+  border-radius: 50%;
+  /* padding: 5px;
+  margin: 2px; */
+  /* display: flex; */
+  /* align-items: center;
+  justify-content: center; */
+  transition: filter 300ms;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+}
+
+.icon-button:hover {
+  filter: brightness(1.2);
+  text-decoration:none ;
+}

@@ -1,0 +1,19 @@
+/* .content{
+    padding-bottom:2%;
+} */
+.navbar{
+  background-color: #110000;
+}
+.material-icons{
+  vertical-align : middle;
+}
+.opacity{
+  opacity : 0.9;
+}
+.jumbotron{
+  background-image : url("");
+  background-size : 75%;
+}
+.card:hover{
+  transform:scale(1.05);
+} 

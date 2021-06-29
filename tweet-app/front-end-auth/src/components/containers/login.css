@@ -1,0 +1,59 @@
+.emailId,.firstName,.lastName{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  .loginId,.phnNum{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  .password{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  .submit{
+    width: 30%;
+    background-color: green;
+    color: white;
+    padding: 14px 0px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;    
+  }
+  #emailId,#loginId,#password,#confirmPwd,#firstName,#lastName,#phnNum{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  .message{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+section {
+  font: 300 14px/1.5 'Oxygen', sans-serif;
+}
