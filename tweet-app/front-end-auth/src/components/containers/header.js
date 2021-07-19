@@ -67,7 +67,7 @@ class HeaderComponent extends React.Component {
                                     <Link to="/allTweets" style={{ color: 'black', textDecoration: 'none' }}>
                                         <b className="text-light mr-auto ml-2">
                                             {(!this.state.isLoggedIn && this.props.isLoggedIn !== null) &&
-                                                <h3 className="icon-button text-dark btn-white font-weight-bold"><b>{this.props.isLoggedIn[0].toUpperCase()}</b></h3>}
+                                                <h3 className="icon-button text-dark btn-white font-weight-bold"><b style={{fontFamily:"cursive"}}>{this.props.isLoggedIn[0].toUpperCase()}</b></h3>}
                                             {(!this.state.isLoggedIn && this.props.isLoggedIn !== null) &&
                                                 <span> Hello, {window.localStorage.getItem("loginId")}</span>}
                                         </b>

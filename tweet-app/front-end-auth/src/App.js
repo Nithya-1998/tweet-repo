@@ -33,7 +33,7 @@ export function idleLogout() {
   }
   function resetTimer() {
     clearTimeout(t);
-    t = setTimeout(idleAlert, 100000);
+    t = setTimeout(idleAlert, 1000000);
     // time is in milliseconds
   }
   return (alertStatus,

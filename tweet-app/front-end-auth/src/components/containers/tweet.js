@@ -134,14 +134,9 @@ class Tweet extends React.Component {
                         <div className="card-body">
                             <div className="card-title font-weight-bold">
                                 <div className="d-flex">
-                                    {!this.state.myhashtag &&
-                                        <div className="flex-shrink-1">
-                                            @{this.state.loginId}
-                                        </div>}
-                                    {this.state.myhashtag &&
-                                        <div className="flex-shrink-1">
-                                            #{this.state.myhashtag}
-                                        </div>}
+                                    <div className="flex-shrink-1">
+                                        @{this.state.loginId}
+                                    </div>
                                     <div className="flex-grow-1">
                                         <div className="text-danger font-weight-bold text-right">
                                             <div class="btn-group dropleft">
